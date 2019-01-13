@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email_signup">Email</string>
+    <string name="password_signup">Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="username">User name</string>
+    <string name="currentthreads">Current Threads</string>
+    <string name="addNewThread">New Thread</string>
+    <string name="threadName">Thread Name</string>
+    <string name="Repeat_password">Repeat Password</string>
+    <string name="type_message">Type message to send...</string>
+</resources>
